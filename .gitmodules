@@ -1,0 +1,3 @@
+[submodule "submodules/SubRepo"]
+	path = submodules/SubRepo
+	url = https://github.com/vishalkk22csr241/Devops_Submodule.git
